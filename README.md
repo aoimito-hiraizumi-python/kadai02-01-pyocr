@@ -1,0 +1,1 @@
+# kadai02-01-pyocr
